@@ -1,0 +1,6 @@
+platform :ios, '7.0'
+target 'GaodeMap' do
+pod 'AMap3DMap' 
+pod 'AMapLocation'
+pod 'AMapSearch'
+end
